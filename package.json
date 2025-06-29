@@ -1,0 +1,26 @@
+{
+  "name": "hyper-rainy",
+  "version": "1.0.0",
+  "description": "Soothing lofi rain effect for Hyper terminal",
+  "main": "index.js",
+  "keywords": [
+    "hyper",
+    "hyper-plugin",
+    "rain",
+    "lofi",
+    "terminal",
+    "effect",
+    "aesthetic",
+    "ambient"
+  ],
+  "author": "https://x.com/rahnolds",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnafarmer/hyper-rainy"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {}
+}
